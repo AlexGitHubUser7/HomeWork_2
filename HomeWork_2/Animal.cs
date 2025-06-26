@@ -42,7 +42,7 @@ namespace HomeWork_2
         {
             if (string.IsNullOrEmpty(Name))
             {
-                Console.WriteLine("Имя пимтомца не задано.");
+                Console.WriteLine("Имя питомца не задано.");
             }
             else
             {
